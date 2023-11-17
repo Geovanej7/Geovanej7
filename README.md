@@ -1,3 +1,3 @@
 ### Olá, eu sou o Geovane Júnior 👋
 
-- 🌱 Estudando Java, Javascript, Html e css         
+- 🌱 Estudando Node.js, Javascript, Java, Html e css         
