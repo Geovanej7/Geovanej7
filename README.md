@@ -1,5 +1,6 @@
 ### Olá 👋
-
+Sou um jovem apaixonado por tecnologia.
+backend developer 
 ![Geovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovanej7&show_icons=true&theme=dark)        
 
 ## Tecnologias 
