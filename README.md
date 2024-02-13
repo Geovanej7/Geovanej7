@@ -1,4 +1,4 @@
-### Olá, eu sou o Geovane Júnior 👋
+### Olá 👋
 
 ![Geovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovanej7&show_icons=true&theme=radical)        
 
