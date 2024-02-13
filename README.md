@@ -1,6 +1,6 @@
 ### Olá 👋
 
-![Geovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovanej7&show_icons=true&theme=radical)        
+![Geovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovanej7&show_icons=true&theme=dark)        
 
 ## Tecnologias 
 
