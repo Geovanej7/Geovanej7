@@ -1,8 +1,8 @@
-### Olá, sou apenas um jovem apaixonado por tecnologia 🫶
+### Olá, sou apenas um jovem apaixonado por tecnologia :alien:
 
 ![Geovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovanej7&show_icons=true&theme=dark)        
 
-## Entendo um pouco de:
+## Estou sempre estudadndo sobre:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
