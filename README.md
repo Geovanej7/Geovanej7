@@ -1,4 +1,4 @@
-### Olá, sou apenas um jovem apaixonado por tecnologia :alien:
+# Olá, eu sou o Geovane, um jovem dev Full-Stack :alien:👨‍💻🚀
 
 ![Geovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovanej7&show_icons=true&theme=dark)        
 
