@@ -3,7 +3,7 @@
 
 ![Geovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovanej7&show_icons=true&theme=dark)        
 
-## Estou sempre estudadndo sobre:
+## Estou sempre estudando sobre:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
