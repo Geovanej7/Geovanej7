@@ -1,4 +1,4 @@
-# Olá, eu sou o Geovane,<br>um jovem dev Full-Stack 👨‍💻🚀
+# Olá, eu sou o Geovane,<br>um jovem dev Full-Stack com ênfase no Back-End 👨‍💻🚀
 
 
 ![Geovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovanej7&show_icons=true&theme=dark)        
