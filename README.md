@@ -1,4 +1,4 @@
-# Olá, eu sou o Geovane,<br> estudante de Tecnologia a 3 anos.<br> busco aprender de tudo um pouco,<br>mas tenho um carinho maior pelo backend 👨‍💻🚀
+# Olá, eu sou o Geovane,<br> estudante de Tecnologia a 3 anos.<br> busco aprender de tudo um pouco,<br>mas tenho um carinho especial pelo backend 👨‍💻🚀
 
 
 ![Geovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovanej7&show_icons=true&theme=dark)        
